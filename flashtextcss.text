@@ -1,0 +1,8 @@
+.flashlist > p{
+	display: none;
+}
+
+
+.flashlist > p:first-of-type{
+	display: block;
+}
